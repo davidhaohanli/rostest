@@ -1,2 +1,2 @@
 # rostest
-Testing Git 
+Testing Git using this repository
